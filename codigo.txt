@@ -1,0 +1,14 @@
+git status = verifica a situação dos códigos (analise do controle de versão)
+
+git add "x" (sendo x o nome do arquivo) = adiciona o arquivo ao controle de versão
+
+git add . = adiciona todos os arquivos ao controle de versão
+
+git commit -m = adiciona o arquivo ao repositório
+
+git push = encaminha o arquivo para algum lugar (repositorio)
+
+git remote add origin x, (sendo x o link do repositório criado) = adicionar o repositório para o arquivo
+
+git remote set-url origin x, (sendo x a url correta do repositório, caso tenha errado) = adicionar o repositório para o arquivo
+
