@@ -4,7 +4,7 @@ git add "x" (sendo x o nome do arquivo) = adiciona o arquivo ao controle de vers
 
 git add . = adiciona todos os arquivos ao controle de versão
 
-git commit -m = adiciona o arquivo ao repositório
+git commit -m "x"(sendo x um comentario) = adiciona o arquivo ao repositório
 
 git push = encaminha o arquivo para algum lugar (repositorio)
 
