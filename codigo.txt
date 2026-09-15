@@ -12,3 +12,4 @@ git remote add origin x, (sendo x o link do repositório criado) = adicionar o r
 
 git remote set-url origin x, (sendo x a url correta do repositório, caso tenha errado) = adicionar o repositório para o arquivo
 
+git reflog = ver o histórico de alterações de um arquivo
