@@ -21,3 +21,5 @@ git branch = ver as branchs disponíveis e a que esta sendo usada
 git branch x (sendo x o nome da nova branch) = cria uma branch 
 
 git checkout x (sendo x o nome da branch) = troca a branch que esta sendo usada
+
+git merge x (sendo x o nome da branch) = buscar informações da branch colocada
