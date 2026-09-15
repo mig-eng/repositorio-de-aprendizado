@@ -22,4 +22,8 @@ git branch x (sendo x o nome da nova branch) = cria uma branch
 
 git checkout x (sendo x o nome da branch) = troca a branch que esta sendo usada
 
-git merge x (sendo x o nome da branch) = buscar informações da branch colocada
+git checkout -b x (sendo x o nome da branch) = cria uma branch
+
+git merge x (sendo x o nome da branch) = buscar informações da branch colocada, ~o arquivo deve ser o mais atual~
+
+git pull = traz as atualizações mais recentes locais do arquivo
