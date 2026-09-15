@@ -15,3 +15,9 @@ git remote set-url origin x, (sendo x a url correta do repositório, caso tenha 
 git reflog = ver o histórico de alterações de um arquivo
 
 git reset --hard código (código esse alcançado pelo reflog) = retorna o arquivo ao commit/versão do codigo
+
+git branch = ver as branchs disponíveis e a que esta sendo usada
+
+git branch x (sendo x o nome da nova branch) = cria uma branch 
+
+git checkout x (sendo x o nome da branch) = troca a branch que esta sendo usada
